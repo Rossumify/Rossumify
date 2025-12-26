@@ -10,6 +10,6 @@ I love to connect with everyone around me, especially for those who have the sam
 
 Feel free to contact with me via email's or discord! (I may allow github sometime~)
 
-E: basilshabib@outlook.com
+## E: basilshabib@outlook.com
 Discord: afterclock
 ## I might not answer to all of you're DM's, But I do love thank you notes and personal messages, Thank you!
