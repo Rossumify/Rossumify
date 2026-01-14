@@ -12,7 +12,7 @@ Proudly a developer program member!
 ## Feel free to connect with me, or even do a simple collaboration together :]
 I love to connect with everyone around me, especially for those who have the same interest as mine~!
 
-Feel free to contact with me via email's or discord! (I may allow github DM's sometime~)
+Feel free to contact with me via email's or discord!
 
 ## E: basilshabib@outlook.com
 ## Discord: ro.sey
