@@ -2,8 +2,8 @@
 <!--      GITHUB PROFILE      -->
 <!-- ========================= -->
 
-<h1>Hi, I'm Basil</h1>
-<h3 align="center">Student Developer · Learner · Builder</h3>
+<h1>Hi, I'm Basil.</h1>
+<h3 align="center">Developer · Learner · Builder</h3>
 
 <p align="center">
   <i>Turning curiosity into code, one iteration at a time.</i>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## ★ About Me
 
 I am a student developer with a strong interest in **programming, logic, and digital systems**.  
 I approach software development as both a technical discipline and a mindset — focused on clarity, patience, and continuous improvement.
@@ -25,7 +25,7 @@ I am not rushing expertise — I am **earning it**.
 
 ---
 
-## 💻 What I Work With
+## ★ What I Work With
 
 ### Languages & Technologies
 - **Python** — fundamentals, scripting, logic
@@ -34,14 +34,14 @@ I am not rushing expertise — I am **earning it**.
 - **Problem Solving** — algorithms, debugging, iteration
 
 ### Tools & Environment
-- Windows  
+- GitHub  
 - VS Code  
-- Browser-based tooling  
+- Dev-Tools  
 - Lightweight workflows focused on learning
 
 ---
 
-## 📚 Learning Philosophy
+## ★ Learning Philosophy
 
 ```text
 Learn → Build → Break → Fix → Understand → Repeat
