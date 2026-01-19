@@ -2,7 +2,7 @@
 <!--      GITHUB PROFILE      -->
 <!-- ========================= -->
 
-<h1 align="center">Hi, I'm Basil</h1>
+<h1>Hi, I'm Basil</h1>
 <h3 align="center">Student Developer · Learner · Builder</h3>
 
 <p align="center">
