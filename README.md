@@ -29,7 +29,7 @@ I am not rushing expertise — I am **earning it**.
 
 ### Languages & Technologies
 - **Python** — fundamentals, scripting, logic
-- **HTML / CSS / JavaScript** — web basics
+- **HTML / CSS / JavaScript** — Front-end Developement 
 - **Git & GitHub** — version control, collaboration
 - **Problem Solving** — algorithms, debugging, iteration
 
